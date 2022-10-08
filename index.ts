@@ -9,7 +9,7 @@ async function main(): Promise<void> {
     stroke: "team",
     title: "name",
   }).plot();
-  document.body.append(dotplot);
+  document.querySelector("#plot")!.append(dotplot);
 }
 
 window.addEventListener("DOMContentLoaded", async (_evt) => {
