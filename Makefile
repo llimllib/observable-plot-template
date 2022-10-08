@@ -1,7 +1,7 @@
 all: dist/index.js
 
 dist/index.js: index.ts
-	tsc --noEmit --skipLibCheck **/*.ts && \
+	tsc --noEmit --skipLibCheck && \
 		node esbuild.config.mjs production
 
 watch:
