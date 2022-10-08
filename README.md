@@ -21,7 +21,7 @@ If everything worked, a tab should open on your browser to a web page showing an
 
 ## Make tasks
 
-I use `make` tasks instead of `npm run` commands because I'm an old nerd, and tsc builds can get quite slow once your file gets larger.
+I use `make` tasks instead of `npm run` commands because tsc builds can get quite slow once your file gets larger.
 
 This repo has three targets you'll want to use:
 
