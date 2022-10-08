@@ -2,9 +2,10 @@ import * as Plot from "@observablehq/plot";
 
 async function main(): Promise<void> {
   const barchart = Plot.plot({
+    width: 640,
     grid: true,
     color: {
-      domain: [52, 62],
+      domain: [52, 68],
       pivot: 55,
       scheme: "BuRd",
     },
