@@ -7,8 +7,11 @@ dist/index.js: index.ts
 watch:
 	node esbuild.config.mjs
 
+serve:
+	node_modules/.bin/http-server
+
 ci:
 	npm ci
 	node_modules/.bin/eslint *.ts
 
-.PHONY: watch ci
+.PHONY: watch serve ci
