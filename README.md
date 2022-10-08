@@ -43,3 +43,4 @@ This repo has three targets you'll want to use:
 
 - https://observablehq.com/@observablehq/plot
 - https://github.com/observablehq/plot
+- https://observablehq.com/@observablehq/plot-cheatsheets?collection=@observablehq/plot-cheatsheets
