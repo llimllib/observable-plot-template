@@ -17,7 +17,7 @@ async function main(): Promise<void> {
       Plot.ruleY([0]),
     ],
   });
-  document.querySelector("#plot")!.append(barchart);
+  document.querySelector("#plot")?.append(barchart);
 }
 
 window.addEventListener("DOMContentLoaded", async (_evt) => {
