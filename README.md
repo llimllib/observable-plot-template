@@ -29,6 +29,16 @@ This repo has three targets you'll want to use:
 - `make serve`: serve `index.html` on port `8080` and turn on esbuild's watch mode to rebuild your js file as you change `index.ts`
 - `make ci`: run eslint. There's a github action that runs this task for you on pushes
 
+## Tools
+
+- tsc for typechecking
+- esbuild for compilation
+- eslint for linting
+- prettier for formatting
+- make for running tasks and managing compilation
+- github actions for running lint on code changes
+- http-server for serving the site in development
+
 ## Observable Plot Documentation
 
 - https://observablehq.com/@observablehq/plot
