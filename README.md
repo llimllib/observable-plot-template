@@ -38,6 +38,8 @@ This repo has three targets you'll want to use:
 - make for running tasks and managing compilation
 - github actions for running lint on code changes
 - http-server for serving the site in development
+- d3 is imported by observable plot
+  - don't import another version unless you need it!
 
 ## Observable Plot Documentation
 
