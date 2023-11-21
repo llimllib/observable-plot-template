@@ -14,11 +14,10 @@ esbuild
     banner: {
       js: banner,
     },
-    entryPoints: ["index.ts"],
+    entryPoints: ["src/index.ts"],
     bundle: true,
     external: [],
     format: "cjs",
-    watch: !prod,
     target: "es2018",
     logLevel: "info",
     sourcemap: prod ? false : "inline",
