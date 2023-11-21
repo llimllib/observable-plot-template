@@ -1,6 +1,9 @@
-all: dist/index.js
+all: html dist/index.js
 
-dist/index.js: index.ts
+html: src/index.html
+	cp src/*.html dist/
+
+dist/index.js: src/index.ts
 	tsc --noEmit --skipLibCheck && \
 		node esbuild.config.mjs production
 
@@ -15,6 +18,6 @@ serve: dist dist/index.js
 
 ci:
 	npm ci
-	node_modules/.bin/eslint *.ts
+	node_modules/.bin/eslint **/*.ts
 
 .PHONY: watch serve ci
