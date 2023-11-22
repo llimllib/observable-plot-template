@@ -8,13 +8,10 @@ dist/index.js: src/index.ts
 		node esbuild.config.mjs production
 
 watch:
-	node esbuild.config.mjs
+	make serve & npx nodemon --ext "js,mjs,cjs.json,html,ts" --exec "make all" --watch src
 
-# serve index.html and also automatically rebuild index.ts when it starts. Is
-# there a native javascripty solution to this? I use foreman in ruby and modd
-# in golang for this task
-serve: dist dist/index.js
-	(node_modules/.bin/http-server -o & node esbuild.config.mjs)
+serve: html dist/index.js
+	npx http-server -o / dist
 
 ci:
 	npm ci
