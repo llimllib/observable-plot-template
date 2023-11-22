@@ -1,0 +1,3224 @@
+[
+  {
+    "player_name": "A.J. Lawson",
+    "team_abbreviation": "DAL",
+    "fgm": 22,
+    "fga": 44
+  },
+  {
+    "player_name": "AJ Green",
+    "team_abbreviation": "MIL",
+    "fgm": 53,
+    "fga": 125
+  },
+  {
+    "player_name": "AJ Griffin",
+    "team_abbreviation": "ATL",
+    "fgm": 248,
+    "fga": 533
+  },
+  {
+    "player_name": "Aaron Gordon",
+    "team_abbreviation": "DEN",
+    "fgm": 429,
+    "fga": 761
+  },
+  {
+    "player_name": "Aaron Holiday",
+    "team_abbreviation": "ATL",
+    "fgm": 92,
+    "fga": 220
+  },
+  {
+    "player_name": "Aaron Nesmith",
+    "team_abbreviation": "IND",
+    "fgm": 252,
+    "fga": 590
+  },
+  {
+    "player_name": "Aaron Wiggins",
+    "team_abbreviation": "OKC",
+    "fgm": 186,
+    "fga": 363
+  },
+  {
+    "player_name": "Admiral Schofield",
+    "team_abbreviation": "ORL",
+    "fgm": 55,
+    "fga": 122
+  },
+  {
+    "player_name": "Al Horford",
+    "team_abbreviation": "BOS",
+    "fgm": 228,
+    "fga": 479
+  },
+  {
+    "player_name": "Alec Burks",
+    "team_abbreviation": "DET",
+    "fgm": 200,
+    "fga": 459
+  },
+  {
+    "player_name": "Aleksej Pokusevski",
+    "team_abbreviation": "OKC",
+    "fgm": 108,
+    "fga": 249
+  },
+  {
+    "player_name": "Alex Caruso",
+    "team_abbreviation": "CHI",
+    "fgm": 130,
+    "fga": 286
+  },
+  {
+    "player_name": "Alex Len",
+    "team_abbreviation": "SAC",
+    "fgm": 16,
+    "fga": 30
+  },
+  {
+    "player_name": "Alize Johnson",
+    "team_abbreviation": "SAS",
+    "fgm": 3,
+    "fga": 6
+  },
+  {
+    "player_name": "Alperen Sengun",
+    "team_abbreviation": "HOU",
+    "fgm": 442,
+    "fga": 799
+  },
+  {
+    "player_name": "Amir Coffey",
+    "team_abbreviation": "LAC",
+    "fgm": 56,
+    "fga": 145
+  },
+  {
+    "player_name": "Andre Drummond",
+    "team_abbreviation": "CHI",
+    "fgm": 166,
+    "fga": 274
+  },
+  {
+    "player_name": "Andre Iguodala",
+    "team_abbreviation": "GSW",
+    "fgm": 7,
+    "fga": 15
+  },
+  {
+    "player_name": "Andrew Nembhard",
+    "team_abbreviation": "IND",
+    "fgm": 284,
+    "fga": 644
+  },
+  {
+    "player_name": "Andrew Wiggins",
+    "team_abbreviation": "GSW",
+    "fgm": 250,
+    "fga": 529
+  },
+  {
+    "player_name": "Anfernee Simons",
+    "team_abbreviation": "POR",
+    "fgm": 467,
+    "fga": 1045
+  },
+  {
+    "player_name": "Anthony Davis",
+    "team_abbreviation": "LAL",
+    "fgm": 542,
+    "fga": 962
+  },
+  {
+    "player_name": "Anthony Edwards",
+    "team_abbreviation": "MIN",
+    "fgm": 707,
+    "fga": 1541
+  },
+  {
+    "player_name": "Anthony Gill",
+    "team_abbreviation": "WAS",
+    "fgm": 71,
+    "fga": 132
+  },
+  {
+    "player_name": "Anthony Lamb",
+    "team_abbreviation": "GSW",
+    "fgm": 148,
+    "fga": 314
+  },
+  {
+    "player_name": "Austin Reaves",
+    "team_abbreviation": "LAL",
+    "fgm": 259,
+    "fga": 490
+  },
+  {
+    "player_name": "Austin Rivers",
+    "team_abbreviation": "MIN",
+    "fgm": 91,
+    "fga": 209
+  },
+  {
+    "player_name": "Ayo Dosunmu",
+    "team_abbreviation": "CHI",
+    "fgm": 281,
+    "fga": 570
+  },
+  {
+    "player_name": "Bam Adebayo",
+    "team_abbreviation": "MIA",
+    "fgm": 602,
+    "fga": 1114
+  },
+  {
+    "player_name": "Ben Simmons",
+    "team_abbreviation": "BKN",
+    "fgm": 133,
+    "fga": 235
+  },
+  {
+    "player_name": "Bennedict Mathurin",
+    "team_abbreviation": "IND",
+    "fgm": 413,
+    "fga": 951
+  },
+  {
+    "player_name": "Bismack Biyombo",
+    "team_abbreviation": "PHX",
+    "fgm": 119,
+    "fga": 206
+  },
+  {
+    "player_name": "Blake Griffin",
+    "team_abbreviation": "BOS",
+    "fgm": 63,
+    "fga": 130
+  },
+  {
+    "player_name": "Blake Wesley",
+    "team_abbreviation": "SAS",
+    "fgm": 69,
+    "fga": 215
+  },
+  {
+    "player_name": "Boban Marjanovic",
+    "team_abbreviation": "HOU",
+    "fgm": 41,
+    "fga": 60
+  },
+  {
+    "player_name": "Bobby Portis",
+    "team_abbreviation": "MIL",
+    "fgm": 398,
+    "fga": 803
+  },
+  {
+    "player_name": "Bogdan Bogdanovic",
+    "team_abbreviation": "ATL",
+    "fgm": 273,
+    "fga": 611
+  },
+  {
+    "player_name": "Bojan Bogdanovic",
+    "team_abbreviation": "DET",
+    "fgm": 430,
+    "fga": 882
+  },
+  {
+    "player_name": "Bol Bol",
+    "team_abbreviation": "ORL",
+    "fgm": 261,
+    "fga": 478
+  },
+  {
+    "player_name": "Bones Hyland",
+    "team_abbreviation": "LAC",
+    "fgm": 228,
+    "fga": 571
+  },
+  {
+    "player_name": "Bradley Beal",
+    "team_abbreviation": "WAS",
+    "fgm": 444,
+    "fga": 878
+  },
+  {
+    "player_name": "Brandon Boston Jr.",
+    "team_abbreviation": "LAC",
+    "fgm": 51,
+    "fga": 122
+  },
+  {
+    "player_name": "Brandon Clarke",
+    "team_abbreviation": "MEM",
+    "fgm": 229,
+    "fga": 349
+  },
+  {
+    "player_name": "Brandon Ingram",
+    "team_abbreviation": "NOP",
+    "fgm": 404,
+    "fga": 835
+  },
+  {
+    "player_name": "Braxton Key",
+    "team_abbreviation": "DET",
+    "fgm": 1,
+    "fga": 1
+  },
+  {
+    "player_name": "Brook Lopez",
+    "team_abbreviation": "MIL",
+    "fgm": 477,
+    "fga": 899
+  },
+  {
+    "player_name": "Bruce Brown",
+    "team_abbreviation": "DEN",
+    "fgm": 358,
+    "fga": 741
+  },
+  {
+    "player_name": "Bruno Fernando",
+    "team_abbreviation": "ATL",
+    "fgm": 59,
+    "fga": 112
+  },
+  {
+    "player_name": "Bryce McGowens",
+    "team_abbreviation": "CHA",
+    "fgm": 80,
+    "fga": 202
+  },
+  {
+    "player_name": "Bryn Forbes",
+    "team_abbreviation": "MIN",
+    "fgm": 30,
+    "fga": 83
+  },
+  {
+    "player_name": "Buddy Boeheim",
+    "team_abbreviation": "DET",
+    "fgm": 5,
+    "fga": 27
+  },
+  {
+    "player_name": "Buddy Hield",
+    "team_abbreviation": "IND",
+    "fgm": 475,
+    "fga": 1038
+  },
+  {
+    "player_name": "CJ McCollum",
+    "team_abbreviation": "NOP",
+    "fgm": 587,
+    "fga": 1344
+  },
+  {
+    "player_name": "Cade Cunningham",
+    "team_abbreviation": "DET",
+    "fgm": 93,
+    "fga": 224
+  },
+  {
+    "player_name": "Caleb Houstan",
+    "team_abbreviation": "ORL",
+    "fgm": 66,
+    "fga": 182
+  },
+  {
+    "player_name": "Caleb Martin",
+    "team_abbreviation": "MIA",
+    "fgm": 254,
+    "fga": 548
+  },
+  {
+    "player_name": "Cam Reddish",
+    "team_abbreviation": "POR",
+    "fgm": 139,
+    "fga": 312
+  },
+  {
+    "player_name": "Cam Thomas",
+    "team_abbreviation": "BKN",
+    "fgm": 201,
+    "fga": 456
+  },
+  {
+    "player_name": "Cameron Johnson",
+    "team_abbreviation": "BKN",
+    "fgm": 223,
+    "fga": 474
+  },
+  {
+    "player_name": "Cameron Payne",
+    "team_abbreviation": "PHX",
+    "fgm": 188,
+    "fga": 453
+  },
+  {
+    "player_name": "Caris LeVert",
+    "team_abbreviation": "CLE",
+    "fgm": 320,
+    "fga": 742
+  },
+  {
+    "player_name": "Carlik Jones",
+    "team_abbreviation": "CHI",
+    "fgm": 6,
+    "fga": 15
+  },
+  {
+    "player_name": "Cedi Osman",
+    "team_abbreviation": "CLE",
+    "fgm": 239,
+    "fga": 530
+  },
+  {
+    "player_name": "Chance Comanche",
+    "team_abbreviation": "POR",
+    "fgm": 3,
+    "fga": 5
+  },
+  {
+    "player_name": "Charles Bassey",
+    "team_abbreviation": "SAS",
+    "fgm": 87,
+    "fga": 135
+  },
+  {
+    "player_name": "Chima Moneke",
+    "team_abbreviation": "SAC",
+    "fgm": 1,
+    "fga": 2
+  },
+  {
+    "player_name": "Chimezie Metu",
+    "team_abbreviation": "SAC",
+    "fgm": 129,
+    "fga": 219
+  },
+  {
+    "player_name": "Chris Boucher",
+    "team_abbreviation": "TOR",
+    "fgm": 261,
+    "fga": 529
+  },
+  {
+    "player_name": "Chris Duarte",
+    "team_abbreviation": "IND",
+    "fgm": 123,
+    "fga": 333
+  },
+  {
+    "player_name": "Chris Paul",
+    "team_abbreviation": "PHX",
+    "fgm": 294,
+    "fga": 668
+  },
+  {
+    "player_name": "Chris Silva",
+    "team_abbreviation": "DAL",
+    "fgm": 1,
+    "fga": 1
+  },
+  {
+    "player_name": "Christian Braun",
+    "team_abbreviation": "DEN",
+    "fgm": 143,
+    "fga": 289
+  },
+  {
+    "player_name": "Christian Koloko",
+    "team_abbreviation": "TOR",
+    "fgm": 72,
+    "fga": 150
+  },
+  {
+    "player_name": "Christian Wood",
+    "team_abbreviation": "DAL",
+    "fgm": 396,
+    "fga": 769
+  },
+  {
+    "player_name": "Chuma Okeke",
+    "team_abbreviation": "ORL",
+    "fgm": 43,
+    "fga": 122
+  },
+  {
+    "player_name": "Clint Capela",
+    "team_abbreviation": "ATL",
+    "fgm": 350,
+    "fga": 536
+  },
+  {
+    "player_name": "Coby White",
+    "team_abbreviation": "CHI",
+    "fgm": 263,
+    "fga": 594
+  },
+  {
+    "player_name": "Cody Martin",
+    "team_abbreviation": "CHA",
+    "fgm": 14,
+    "fga": 36
+  },
+  {
+    "player_name": "Cody Zeller",
+    "team_abbreviation": "MIA",
+    "fgm": 37,
+    "fga": 59
+  },
+  {
+    "player_name": "Cole Anthony",
+    "team_abbreviation": "ORL",
+    "fgm": 277,
+    "fga": 610
+  },
+  {
+    "player_name": "Cole Swider",
+    "team_abbreviation": "LAL",
+    "fgm": 3,
+    "fga": 9
+  },
+  {
+    "player_name": "Collin Sexton",
+    "team_abbreviation": "UTA",
+    "fgm": 237,
+    "fga": 468
+  },
+  {
+    "player_name": "Corey Kispert",
+    "team_abbreviation": "WAS",
+    "fgm": 291,
+    "fga": 585
+  },
+  {
+    "player_name": "Cory Joseph",
+    "team_abbreviation": "DET",
+    "fgm": 150,
+    "fga": 351
+  },
+  {
+    "player_name": "D'Angelo Russell",
+    "team_abbreviation": "LAL",
+    "fgm": 445,
+    "fga": 948
+  },
+  {
+    "player_name": "Daishen Nix",
+    "team_abbreviation": "HOU",
+    "fgm": 81,
+    "fga": 237
+  },
+  {
+    "player_name": "Dalano Banton",
+    "team_abbreviation": "TOR",
+    "fgm": 55,
+    "fga": 130
+  },
+  {
+    "player_name": "Dalen Terry",
+    "team_abbreviation": "CHI",
+    "fgm": 32,
+    "fga": 72
+  },
+  {
+    "player_name": "Damian Jones",
+    "team_abbreviation": "UTA",
+    "fgm": 55,
+    "fga": 86
+  },
+  {
+    "player_name": "Damian Lillard",
+    "team_abbreviation": "POR",
+    "fgm": 556,
+    "fga": 1202
+  },
+  {
+    "player_name": "Damion Lee",
+    "team_abbreviation": "PHX",
+    "fgm": 200,
+    "fga": 452
+  },
+  {
+    "player_name": "Daniel Gafford",
+    "team_abbreviation": "WAS",
+    "fgm": 289,
+    "fga": 395
+  },
+  {
+    "player_name": "Daniel Theis",
+    "team_abbreviation": "IND",
+    "fgm": 21,
+    "fga": 44
+  },
+  {
+    "player_name": "Danny Green",
+    "team_abbreviation": "CLE",
+    "fgm": 22,
+    "fga": 49
+  },
+  {
+    "player_name": "Danuel House Jr.",
+    "team_abbreviation": "PHI",
+    "fgm": 93,
+    "fga": 197
+  },
+  {
+    "player_name": "Dario Saric",
+    "team_abbreviation": "OKC",
+    "fgm": 127,
+    "fga": 277
+  },
+  {
+    "player_name": "Darius Bazley",
+    "team_abbreviation": "PHX",
+    "fgm": 83,
+    "fga": 183
+  },
+  {
+    "player_name": "Darius Days",
+    "team_abbreviation": "HOU",
+    "fgm": 5,
+    "fga": 12
+  },
+  {
+    "player_name": "Darius Garland",
+    "team_abbreviation": "CLE",
+    "fgm": 522,
+    "fga": 1129
+  },
+  {
+    "player_name": "David Duke Jr.",
+    "team_abbreviation": "BKN",
+    "fgm": 36,
+    "fga": 78
+  },
+  {
+    "player_name": "David Roddy",
+    "team_abbreviation": "MEM",
+    "fgm": 180,
+    "fga": 420
+  },
+  {
+    "player_name": "Davion Mitchell",
+    "team_abbreviation": "SAC",
+    "fgm": 181,
+    "fga": 399
+  },
+  {
+    "player_name": "Davis Bertans",
+    "team_abbreviation": "DAL",
+    "fgm": 69,
+    "fga": 160
+  },
+  {
+    "player_name": "Davon Reed",
+    "team_abbreviation": "LAL",
+    "fgm": 28,
+    "fga": 84
+  },
+  {
+    "player_name": "Day'Ron Sharpe",
+    "team_abbreviation": "BKN",
+    "fgm": 93,
+    "fga": 171
+  },
+  {
+    "player_name": "De'Aaron Fox",
+    "team_abbreviation": "SAC",
+    "fgm": 682,
+    "fga": 1331
+  },
+  {
+    "player_name": "De'Andre Hunter",
+    "team_abbreviation": "ATL",
+    "fgm": 379,
+    "fga": 822
+  },
+  {
+    "player_name": "De'Anthony Melton",
+    "team_abbreviation": "PHI",
+    "fgm": 277,
+    "fga": 651
+  },
+  {
+    "player_name": "DeAndre Jordan",
+    "team_abbreviation": "DEN",
+    "fgm": 88,
+    "fga": 115
+  },
+  {
+    "player_name": "DeMar DeRozan",
+    "team_abbreviation": "CHI",
+    "fgm": 657,
+    "fga": 1303
+  },
+  {
+    "player_name": "Dean Wade",
+    "team_abbreviation": "CLE",
+    "fgm": 73,
+    "fga": 177
+  },
+  {
+    "player_name": "Deandre Ayton",
+    "team_abbreviation": "PHX",
+    "fgm": 522,
+    "fga": 887
+  },
+  {
+    "player_name": "Dejounte Murray",
+    "team_abbreviation": "ATL",
+    "fgm": 612,
+    "fga": 1319
+  },
+  {
+    "player_name": "Delon Wright",
+    "team_abbreviation": "WAS",
+    "fgm": 138,
+    "fga": 291
+  },
+  {
+    "player_name": "Deni Avdija",
+    "team_abbreviation": "WAS",
+    "fgm": 253,
+    "fga": 579
+  },
+  {
+    "player_name": "Dennis Schroder",
+    "team_abbreviation": "LAL",
+    "fgm": 270,
+    "fga": 650
+  },
+  {
+    "player_name": "Dennis Smith Jr.",
+    "team_abbreviation": "CHA",
+    "fgm": 186,
+    "fga": 452
+  },
+  {
+    "player_name": "Deonte Burton",
+    "team_abbreviation": "SAC",
+    "fgm": 0,
+    "fga": 2
+  },
+  {
+    "player_name": "Dereon Seabron",
+    "team_abbreviation": "NOP",
+    "fgm": 2,
+    "fga": 5
+  },
+  {
+    "player_name": "Derrick Jones Jr.",
+    "team_abbreviation": "CHI",
+    "fgm": 115,
+    "fga": 230
+  },
+  {
+    "player_name": "Derrick Rose",
+    "team_abbreviation": "NYK",
+    "fgm": 61,
+    "fga": 159
+  },
+  {
+    "player_name": "Derrick White",
+    "team_abbreviation": "BOS",
+    "fgm": 350,
+    "fga": 758
+  },
+  {
+    "player_name": "Desmond Bane",
+    "team_abbreviation": "MEM",
+    "fgm": 450,
+    "fga": 939
+  },
+  {
+    "player_name": "Devin Booker",
+    "team_abbreviation": "PHX",
+    "fgm": 527,
+    "fga": 1067
+  },
+  {
+    "player_name": "Devin Vassell",
+    "team_abbreviation": "SAS",
+    "fgm": 261,
+    "fga": 595
+  },
+  {
+    "player_name": "Devon Dotson",
+    "team_abbreviation": "WAS",
+    "fgm": 1,
+    "fga": 10
+  },
+  {
+    "player_name": "Devonte' Graham",
+    "team_abbreviation": "SAS",
+    "fgm": 161,
+    "fga": 431
+  },
+  {
+    "player_name": "Dewayne Dedmon",
+    "team_abbreviation": "PHI",
+    "fgm": 77,
+    "fga": 151
+  },
+  {
+    "player_name": "Dillon Brooks",
+    "team_abbreviation": "MEM",
+    "fgm": 392,
+    "fga": 991
+  },
+  {
+    "player_name": "Domantas Sabonis",
+    "team_abbreviation": "SAC",
+    "fgm": 577,
+    "fga": 938
+  },
+  {
+    "player_name": "Dominick Barlow",
+    "team_abbreviation": "SAS",
+    "fgm": 46,
+    "fga": 86
+  },
+  {
+    "player_name": "Donovan Mitchell",
+    "team_abbreviation": "CLE",
+    "fgm": 679,
+    "fga": 1402
+  },
+  {
+    "player_name": "Donovan Williams",
+    "team_abbreviation": "ATL",
+    "fgm": 2,
+    "fga": 5
+  },
+  {
+    "player_name": "Donte DiVincenzo",
+    "team_abbreviation": "GSW",
+    "fgm": 235,
+    "fga": 540
+  },
+  {
+    "player_name": "Dorian Finney-Smith",
+    "team_abbreviation": "BKN",
+    "fgm": 196,
+    "fga": 501
+  },
+  {
+    "player_name": "Doug McDermott",
+    "team_abbreviation": "SAS",
+    "fgm": 239,
+    "fga": 523
+  },
+  {
+    "player_name": "Draymond Green",
+    "team_abbreviation": "GSW",
+    "fgm": 250,
+    "fga": 474
+  },
+  {
+    "player_name": "Drew Eubanks",
+    "team_abbreviation": "POR",
+    "fgm": 214,
+    "fga": 334
+  },
+  {
+    "player_name": "Dru Smith",
+    "team_abbreviation": "BKN",
+    "fgm": 18,
+    "fga": 45
+  },
+  {
+    "player_name": "Duane Washington Jr.",
+    "team_abbreviation": "NYK",
+    "fgm": 94,
+    "fga": 256
+  },
+  {
+    "player_name": "Duncan Robinson",
+    "team_abbreviation": "MIA",
+    "fgm": 88,
+    "fga": 237
+  },
+  {
+    "player_name": "Dwight Powell",
+    "team_abbreviation": "DAL",
+    "fgm": 197,
+    "fga": 269
+  },
+  {
+    "player_name": "Dylan Windler",
+    "team_abbreviation": "CLE",
+    "fgm": 2,
+    "fga": 3
+  },
+  {
+    "player_name": "Dyson Daniels",
+    "team_abbreviation": "NOP",
+    "fgm": 87,
+    "fga": 208
+  },
+  {
+    "player_name": "Edmond Sumner",
+    "team_abbreviation": "BKN",
+    "fgm": 124,
+    "fga": 269
+  },
+  {
+    "player_name": "Eric Gordon",
+    "team_abbreviation": "LAC",
+    "fgm": 291,
+    "fga": 653
+  },
+  {
+    "player_name": "Eugene Omoruyi",
+    "team_abbreviation": "DET",
+    "fgm": 101,
+    "fga": 228
+  },
+  {
+    "player_name": "Evan Fournier",
+    "team_abbreviation": "NYK",
+    "fgm": 56,
+    "fga": 166
+  },
+  {
+    "player_name": "Evan Mobley",
+    "team_abbreviation": "CLE",
+    "fgm": 525,
+    "fga": 947
+  },
+  {
+    "player_name": "Facundo Campazzo",
+    "team_abbreviation": "DAL",
+    "fgm": 3,
+    "fga": 13
+  },
+  {
+    "player_name": "Frank Jackson",
+    "team_abbreviation": "UTA",
+    "fgm": 0,
+    "fga": 3
+  },
+  {
+    "player_name": "Frank Kaminsky",
+    "team_abbreviation": "HOU",
+    "fgm": 31,
+    "fga": 63
+  },
+  {
+    "player_name": "Frank Ntilikina",
+    "team_abbreviation": "DAL",
+    "fgm": 48,
+    "fga": 132
+  },
+  {
+    "player_name": "Franz Wagner",
+    "team_abbreviation": "ORL",
+    "fgm": 542,
+    "fga": 1118
+  },
+  {
+    "player_name": "Fred VanVleet",
+    "team_abbreviation": "TOR",
+    "fgm": 437,
+    "fga": 1112
+  },
+  {
+    "player_name": "Furkan Korkmaz",
+    "team_abbreviation": "PHI",
+    "fgm": 48,
+    "fga": 111
+  },
+  {
+    "player_name": "Gabe Vincent",
+    "team_abbreviation": "MIA",
+    "fgm": 228,
+    "fga": 567
+  },
+  {
+    "player_name": "Gabe York",
+    "team_abbreviation": "IND",
+    "fgm": 8,
+    "fga": 21
+  },
+  {
+    "player_name": "Garrett Temple",
+    "team_abbreviation": "NOP",
+    "fgm": 18,
+    "fga": 45
+  },
+  {
+    "player_name": "Garrison Mathews",
+    "team_abbreviation": "ATL",
+    "fgm": 73,
+    "fga": 201
+  },
+  {
+    "player_name": "Gary Harris",
+    "team_abbreviation": "ORL",
+    "fgm": 138,
+    "fga": 307
+  },
+  {
+    "player_name": "Gary Payton II",
+    "team_abbreviation": "GSW",
+    "fgm": 41,
+    "fga": 69
+  },
+  {
+    "player_name": "Gary Trent Jr.",
+    "team_abbreviation": "TOR",
+    "fgm": 405,
+    "fga": 935
+  },
+  {
+    "player_name": "George Hill",
+    "team_abbreviation": "IND",
+    "fgm": 78,
+    "fga": 166
+  },
+  {
+    "player_name": "Georges Niang",
+    "team_abbreviation": "PHI",
+    "fgm": 222,
+    "fga": 502
+  },
+  {
+    "player_name": "Giannis Antetokounmpo",
+    "team_abbreviation": "MIL",
+    "fgm": 707,
+    "fga": 1278
+  },
+  {
+    "player_name": "Goga Bitadze",
+    "team_abbreviation": "ORL",
+    "fgm": 69,
+    "fga": 125
+  },
+  {
+    "player_name": "Goran Dragic",
+    "team_abbreviation": "MIL",
+    "fgm": 141,
+    "fga": 335
+  },
+  {
+    "player_name": "Gordon Hayward",
+    "team_abbreviation": "CHA",
+    "fgm": 276,
+    "fga": 581
+  },
+  {
+    "player_name": "Gorgui Dieng",
+    "team_abbreviation": "SAS",
+    "fgm": 45,
+    "fga": 117
+  },
+  {
+    "player_name": "Grant Williams",
+    "team_abbreviation": "BOS",
+    "fgm": 216,
+    "fga": 476
+  },
+  {
+    "player_name": "Grayson Allen",
+    "team_abbreviation": "MIL",
+    "fgm": 245,
+    "fga": 557
+  },
+  {
+    "player_name": "Greg Brown III",
+    "team_abbreviation": "POR",
+    "fgm": 11,
+    "fga": 28
+  },
+  {
+    "player_name": "Hamidou Diallo",
+    "team_abbreviation": "DET",
+    "fgm": 215,
+    "fga": 375
+  },
+  {
+    "player_name": "Harrison Barnes",
+    "team_abbreviation": "SAC",
+    "fgm": 374,
+    "fga": 791
+  },
+  {
+    "player_name": "Haywood Highsmith",
+    "team_abbreviation": "MIA",
+    "fgm": 93,
+    "fga": 216
+  },
+  {
+    "player_name": "Herbert Jones",
+    "team_abbreviation": "NOP",
+    "fgm": 235,
+    "fga": 501
+  },
+  {
+    "player_name": "Immanuel Quickley",
+    "team_abbreviation": "NYK",
+    "fgm": 419,
+    "fga": 936
+  },
+  {
+    "player_name": "Isaac Okoro",
+    "team_abbreviation": "CLE",
+    "fgm": 175,
+    "fga": 354
+  },
+  {
+    "player_name": "Isaiah Hartenstein",
+    "team_abbreviation": "NYK",
+    "fgm": 175,
+    "fga": 327
+  },
+  {
+    "player_name": "Isaiah Jackson",
+    "team_abbreviation": "IND",
+    "fgm": 179,
+    "fga": 318
+  },
+  {
+    "player_name": "Isaiah Joe",
+    "team_abbreviation": "OKC",
+    "fgm": 224,
+    "fga": 508
+  },
+  {
+    "player_name": "Isaiah Livers",
+    "team_abbreviation": "DET",
+    "fgm": 120,
+    "fga": 288
+  },
+  {
+    "player_name": "Isaiah Mobley",
+    "team_abbreviation": "CLE",
+    "fgm": 12,
+    "fga": 28
+  },
+  {
+    "player_name": "Isaiah Roby",
+    "team_abbreviation": "NYK",
+    "fgm": 67,
+    "fga": 155
+  },
+  {
+    "player_name": "Isaiah Stewart",
+    "team_abbreviation": "DET",
+    "fgm": 195,
+    "fga": 441
+  },
+  {
+    "player_name": "Isaiah Todd",
+    "team_abbreviation": "WAS",
+    "fgm": 3,
+    "fga": 19
+  },
+  {
+    "player_name": "Ish Smith",
+    "team_abbreviation": "DEN",
+    "fgm": 52,
+    "fga": 131
+  },
+  {
+    "player_name": "Ish Wainright",
+    "team_abbreviation": "PHX",
+    "fgm": 84,
+    "fga": 227
+  },
+  {
+    "player_name": "Ivica Zubac",
+    "team_abbreviation": "LAC",
+    "fgm": 326,
+    "fga": 514
+  },
+  {
+    "player_name": "JD Davison",
+    "team_abbreviation": "BOS",
+    "fgm": 8,
+    "fga": 19
+  },
+  {
+    "player_name": "JT Thor",
+    "team_abbreviation": "CHA",
+    "fgm": 95,
+    "fga": 238
+  },
+  {
+    "player_name": "Ja Morant",
+    "team_abbreviation": "MEM",
+    "fgm": 566,
+    "fga": 1214
+  },
+  {
+    "player_name": "JaMychal Green",
+    "team_abbreviation": "GSW",
+    "fgm": 136,
+    "fga": 252
+  },
+  {
+    "player_name": "JaVale McGee",
+    "team_abbreviation": "DAL",
+    "fgm": 80,
+    "fga": 125
+  },
+  {
+    "player_name": "Jabari Smith Jr.",
+    "team_abbreviation": "HOU",
+    "fgm": 364,
+    "fga": 892
+  },
+  {
+    "player_name": "Jabari Walker",
+    "team_abbreviation": "POR",
+    "fgm": 83,
+    "fga": 198
+  },
+  {
+    "player_name": "Jack White",
+    "team_abbreviation": "DEN",
+    "fgm": 8,
+    "fga": 19
+  },
+  {
+    "player_name": "Jacob Gilyard",
+    "team_abbreviation": "MEM",
+    "fgm": 1,
+    "fga": 3
+  },
+  {
+    "player_name": "Jaden Hardy",
+    "team_abbreviation": "DAL",
+    "fgm": 146,
+    "fga": 333
+  },
+  {
+    "player_name": "Jaden Ivey",
+    "team_abbreviation": "DET",
+    "fgm": 409,
+    "fga": 983
+  },
+  {
+    "player_name": "Jaden McDaniels",
+    "team_abbreviation": "MIN",
+    "fgm": 370,
+    "fga": 716
+  },
+  {
+    "player_name": "Jaden Springer",
+    "team_abbreviation": "PHI",
+    "fgm": 17,
+    "fga": 35
+  },
+  {
+    "player_name": "Jae Crowder",
+    "team_abbreviation": "MIL",
+    "fgm": 45,
+    "fga": 94
+  },
+  {
+    "player_name": "Jae'Sean Tate",
+    "team_abbreviation": "HOU",
+    "fgm": 110,
+    "fga": 229
+  },
+  {
+    "player_name": "Jake LaRavia",
+    "team_abbreviation": "MEM",
+    "fgm": 37,
+    "fga": 95
+  },
+  {
+    "player_name": "Jakob Poeltl",
+    "team_abbreviation": "TOR",
+    "fgm": 389,
+    "fga": 618
+  },
+  {
+    "player_name": "Jalen Brunson",
+    "team_abbreviation": "NYK",
+    "fgm": 587,
+    "fga": 1195
+  },
+  {
+    "player_name": "Jalen Duren",
+    "team_abbreviation": "DET",
+    "fgm": 258,
+    "fga": 398
+  },
+  {
+    "player_name": "Jalen Green",
+    "team_abbreviation": "HOU",
+    "fgm": 566,
+    "fga": 1359
+  },
+  {
+    "player_name": "Jalen Johnson",
+    "team_abbreviation": "ATL",
+    "fgm": 158,
+    "fga": 322
+  },
+  {
+    "player_name": "Jalen McDaniels",
+    "team_abbreviation": "PHI",
+    "fgm": 281,
+    "fga": 617
+  },
+  {
+    "player_name": "Jalen Smith",
+    "team_abbreviation": "IND",
+    "fgm": 242,
+    "fga": 508
+  },
+  {
+    "player_name": "Jalen Suggs",
+    "team_abbreviation": "ORL",
+    "fgm": 186,
+    "fga": 444
+  },
+  {
+    "player_name": "Jalen Williams",
+    "team_abbreviation": "OKC",
+    "fgm": 414,
+    "fga": 794
+  },
+  {
+    "player_name": "Jamal Cain",
+    "team_abbreviation": "MIA",
+    "fgm": 37,
+    "fga": 66
+  },
+  {
+    "player_name": "Jamal Murray",
+    "team_abbreviation": "DEN",
+    "fgm": 473,
+    "fga": 1041
+  },
+  {
+    "player_name": "Jamaree Bouyea",
+    "team_abbreviation": "WAS",
+    "fgm": 6,
+    "fga": 14
+  },
+  {
+    "player_name": "James Bouknight",
+    "team_abbreviation": "CHA",
+    "fgm": 69,
+    "fga": 193
+  },
+  {
+    "player_name": "James Harden",
+    "team_abbreviation": "PHI",
+    "fgm": 371,
+    "fga": 842
+  },
+  {
+    "player_name": "James Johnson",
+    "team_abbreviation": "IND",
+    "fgm": 22,
+    "fga": 49
+  },
+  {
+    "player_name": "James Wiseman",
+    "team_abbreviation": "DET",
+    "fgm": 189,
+    "fga": 339
+  },
+  {
+    "player_name": "Jared Butler",
+    "team_abbreviation": "OKC",
+    "fgm": 15,
+    "fga": 32
+  },
+  {
+    "player_name": "Jared Rhoden",
+    "team_abbreviation": "DET",
+    "fgm": 17,
+    "fga": 44
+  },
+  {
+    "player_name": "Jaren Jackson Jr.",
+    "team_abbreviation": "MEM",
+    "fgm": 416,
+    "fga": 822
+  },
+  {
+    "player_name": "Jarred Vanderbilt",
+    "team_abbreviation": "LAL",
+    "fgm": 247,
+    "fga": 451
+  },
+  {
+    "player_name": "Jarrell Brantley",
+    "team_abbreviation": "UTA",
+    "fgm": 8,
+    "fga": 14
+  },
+  {
+    "player_name": "Jarrett Allen",
+    "team_abbreviation": "CLE",
+    "fgm": 403,
+    "fga": 626
+  },
+  {
+    "player_name": "Jarrett Culver",
+    "team_abbreviation": "ATL",
+    "fgm": 17,
+    "fga": 43
+  },
+  {
+    "player_name": "Jason Preston",
+    "team_abbreviation": "LAC",
+    "fgm": 18,
+    "fga": 41
+  },
+  {
+    "player_name": "Javonte Green",
+    "team_abbreviation": "CHI",
+    "fgm": 61,
+    "fga": 108
+  },
+  {
+    "player_name": "Jaxson Hayes",
+    "team_abbreviation": "NOP",
+    "fgm": 86,
+    "fga": 156
+  },
+  {
+    "player_name": "Jay Huff",
+    "team_abbreviation": "WAS",
+    "fgm": 15,
+    "fga": 25
+  },
+  {
+    "player_name": "Jay Scrubb",
+    "team_abbreviation": "ORL",
+    "fgm": 5,
+    "fga": 7
+  },
+  {
+    "player_name": "Jaylen Brown",
+    "team_abbreviation": "BOS",
+    "fgm": 679,
+    "fga": 1383
+  },
+  {
+    "player_name": "Jaylen Nowell",
+    "team_abbreviation": "MIN",
+    "fgm": 280,
+    "fga": 625
+  },
+  {
+    "player_name": "Jaylin Williams",
+    "team_abbreviation": "OKC",
+    "fgm": 102,
+    "fga": 234
+  },
+  {
+    "player_name": "Jayson Tatum",
+    "team_abbreviation": "BOS",
+    "fgm": 727,
+    "fga": 1559
+  },
+  {
+    "player_name": "Jeff Dowtin Jr.",
+    "team_abbreviation": "TOR",
+    "fgm": 25,
+    "fga": 57
+  },
+  {
+    "player_name": "Jeff Green",
+    "team_abbreviation": "DEN",
+    "fgm": 160,
+    "fga": 328
+  },
+  {
+    "player_name": "Jerami Grant",
+    "team_abbreviation": "POR",
+    "fgm": 434,
+    "fga": 913
+  },
+  {
+    "player_name": "Jeremiah Robinson-Earl",
+    "team_abbreviation": "OKC",
+    "fgm": 110,
+    "fga": 248
+  },
+  {
+    "player_name": "Jeremy Sochan",
+    "team_abbreviation": "SAS",
+    "fgm": 250,
+    "fga": 552
+  },
+  {
+    "player_name": "Jericho Sims",
+    "team_abbreviation": "NYK",
+    "fgm": 83,
+    "fga": 107
+  },
+  {
+    "player_name": "Jevon Carter",
+    "team_abbreviation": "MIL",
+    "fgm": 239,
+    "fga": 565
+  },
+  {
+    "player_name": "Jimmy Butler",
+    "team_abbreviation": "MIA",
+    "fgm": 479,
+    "fga": 888
+  },
+  {
+    "player_name": "Jock Landale",
+    "team_abbreviation": "PHX",
+    "fgm": 178,
+    "fga": 337
+  },
+  {
+    "player_name": "Joe Harris",
+    "team_abbreviation": "BKN",
+    "fgm": 201,
+    "fga": 440
+  },
+  {
+    "player_name": "Joe Ingles",
+    "team_abbreviation": "MIL",
+    "fgm": 108,
+    "fga": 248
+  },
+  {
+    "player_name": "Joe Wieskamp",
+    "team_abbreviation": "TOR",
+    "fgm": 3,
+    "fga": 14
+  },
+  {
+    "player_name": "Joel Embiid",
+    "team_abbreviation": "PHI",
+    "fgm": 728,
+    "fga": 1328
+  },
+  {
+    "player_name": "John Butler Jr.",
+    "team_abbreviation": "POR",
+    "fgm": 17,
+    "fga": 53
+  },
+  {
+    "player_name": "John Collins",
+    "team_abbreviation": "ATL",
+    "fgm": 359,
+    "fga": 707
+  },
+  {
+    "player_name": "John Konchar",
+    "team_abbreviation": "MEM",
+    "fgm": 138,
+    "fga": 320
+  },
+  {
+    "player_name": "John Wall",
+    "team_abbreviation": "LAC",
+    "fgm": 138,
+    "fga": 339
+  },
+  {
+    "player_name": "Johnny Davis",
+    "team_abbreviation": "WAS",
+    "fgm": 66,
+    "fga": 171
+  },
+  {
+    "player_name": "Johnny Juzang",
+    "team_abbreviation": "UTA",
+    "fgm": 35,
+    "fga": 104
+  },
+  {
+    "player_name": "Jonas Valanciunas",
+    "team_abbreviation": "NOP",
+    "fgm": 446,
+    "fga": 816
+  },
+  {
+    "player_name": "Jonathan Isaac",
+    "team_abbreviation": "ORL",
+    "fgm": 22,
+    "fga": 53
+  },
+  {
+    "player_name": "Jonathan Kuminga",
+    "team_abbreviation": "GSW",
+    "fgm": 261,
+    "fga": 497
+  },
+  {
+    "player_name": "Jordan Clarkson",
+    "team_abbreviation": "UTA",
+    "fgm": 458,
+    "fga": 1031
+  },
+  {
+    "player_name": "Jordan Goodwin",
+    "team_abbreviation": "WAS",
+    "fgm": 158,
+    "fga": 353
+  },
+  {
+    "player_name": "Jordan Hall",
+    "team_abbreviation": "SAS",
+    "fgm": 9,
+    "fga": 28
+  },
+  {
+    "player_name": "Jordan McLaughlin",
+    "team_abbreviation": "MIN",
+    "fgm": 61,
+    "fga": 145
+  },
+  {
+    "player_name": "Jordan Nwora",
+    "team_abbreviation": "IND",
+    "fgm": 194,
+    "fga": 445
+  },
+  {
+    "player_name": "Jordan Poole",
+    "team_abbreviation": "GSW",
+    "fgm": 550,
+    "fga": 1278
+  },
+  {
+    "player_name": "Jordan Schakel",
+    "team_abbreviation": "WAS",
+    "fgm": 1,
+    "fga": 2
+  },
+  {
+    "player_name": "Jose Alvarado",
+    "team_abbreviation": "NOP",
+    "fgm": 201,
+    "fga": 489
+  },
+  {
+    "player_name": "Josh Christopher",
+    "team_abbreviation": "HOU",
+    "fgm": 153,
+    "fga": 329
+  },
+  {
+    "player_name": "Josh Giddey",
+    "team_abbreviation": "OKC",
+    "fgm": 539,
+    "fga": 1118
+  },
+  {
+    "player_name": "Josh Green",
+    "team_abbreviation": "DAL",
+    "fgm": 205,
+    "fga": 382
+  },
+  {
+    "player_name": "Josh Hart",
+    "team_abbreviation": "NYK",
+    "fgm": 275,
+    "fga": 520
+  },
+  {
+    "player_name": "Josh Minott",
+    "team_abbreviation": "MIN",
+    "fgm": 18,
+    "fga": 36
+  },
+  {
+    "player_name": "Josh Okogie",
+    "team_abbreviation": "PHX",
+    "fgm": 162,
+    "fga": 414
+  },
+  {
+    "player_name": "Josh Richardson",
+    "team_abbreviation": "NOP",
+    "fgm": 239,
+    "fga": 554
+  },
+  {
+    "player_name": "Joshua Primo",
+    "team_abbreviation": "SAS",
+    "fgm": 9,
+    "fga": 26
+  },
+  {
+    "player_name": "Jrue Holiday",
+    "team_abbreviation": "MIL",
+    "fgm": 490,
+    "fga": 1023
+  },
+  {
+    "player_name": "Juan Toscano-Anderson",
+    "team_abbreviation": "UTA",
+    "fgm": 64,
+    "fga": 143
+  },
+  {
+    "player_name": "Juancho Hernangomez",
+    "team_abbreviation": "TOR",
+    "fgm": 48,
+    "fga": 114
+  },
+  {
+    "player_name": "Julian Champagnie",
+    "team_abbreviation": "SAS",
+    "fgm": 59,
+    "fga": 130
+  },
+  {
+    "player_name": "Julius Randle",
+    "team_abbreviation": "NYK",
+    "fgm": 658,
+    "fga": 1432
+  },
+  {
+    "player_name": "Justin Champagnie",
+    "team_abbreviation": "BOS",
+    "fgm": 5,
+    "fga": 15
+  },
+  {
+    "player_name": "Justin Holiday",
+    "team_abbreviation": "DAL",
+    "fgm": 77,
+    "fga": 204
+  },
+  {
+    "player_name": "Justin Jackson",
+    "team_abbreviation": "BOS",
+    "fgm": 7,
+    "fga": 27
+  },
+  {
+    "player_name": "Justin Minaya",
+    "team_abbreviation": "POR",
+    "fgm": 7,
+    "fga": 23
+  },
+  {
+    "player_name": "Justise Winslow",
+    "team_abbreviation": "POR",
+    "fgm": 81,
+    "fga": 198
+  },
+  {
+    "player_name": "Jusuf Nurkic",
+    "team_abbreviation": "POR",
+    "fgm": 262,
+    "fga": 505
+  },
+  {
+    "player_name": "KZ Okpala",
+    "team_abbreviation": "SAC",
+    "fgm": 16,
+    "fga": 38
+  },
+  {
+    "player_name": "Kai Jones",
+    "team_abbreviation": "CHA",
+    "fgm": 67,
+    "fga": 120
+  },
+  {
+    "player_name": "Karl-Anthony Towns",
+    "team_abbreviation": "MIN",
+    "fgm": 212,
+    "fga": 428
+  },
+  {
+    "player_name": "Kawhi Leonard",
+    "team_abbreviation": "LAC",
+    "fgm": 446,
+    "fga": 871
+  },
+  {
+    "player_name": "Keegan Murray",
+    "team_abbreviation": "SAC",
+    "fgm": 354,
+    "fga": 782
+  },
+  {
+    "player_name": "Keita Bates-Diop",
+    "team_abbreviation": "SAS",
+    "fgm": 236,
+    "fga": 465
+  },
+  {
+    "player_name": "Keldon Johnson",
+    "team_abbreviation": "SAS",
+    "fgm": 503,
+    "fga": 1113
+  },
+  {
+    "player_name": "Kelly Olynyk",
+    "team_abbreviation": "UTA",
+    "fgm": 278,
+    "fga": 557
+  },
+  {
+    "player_name": "Kelly Oubre Jr.",
+    "team_abbreviation": "CHA",
+    "fgm": 353,
+    "fga": 819
+  },
+  {
+    "player_name": "Kemba Walker",
+    "team_abbreviation": "DAL",
+    "fgm": 24,
+    "fga": 57
+  },
+  {
+    "player_name": "Kendall Brown",
+    "team_abbreviation": "IND",
+    "fgm": 4,
+    "fga": 7
+  },
+  {
+    "player_name": "Kendrick Nunn",
+    "team_abbreviation": "WAS",
+    "fgm": 191,
+    "fga": 450
+  },
+  {
+    "player_name": "Kennedy Chandler",
+    "team_abbreviation": "MEM",
+    "fgm": 35,
+    "fga": 83
+  },
+  {
+    "player_name": "Kenneth Lofton Jr.",
+    "team_abbreviation": "MEM",
+    "fgm": 49,
+    "fga": 93
+  },
+  {
+    "player_name": "Kenrich Williams",
+    "team_abbreviation": "OKC",
+    "fgm": 179,
+    "fga": 346
+  },
+  {
+    "player_name": "Kentavious Caldwell-Pope",
+    "team_abbreviation": "DEN",
+    "fgm": 292,
+    "fga": 632
+  },
+  {
+    "player_name": "Kenyon Martin Jr.",
+    "team_abbreviation": "HOU",
+    "fgm": 410,
+    "fga": 720
+  },
+  {
+    "player_name": "Keon Ellis",
+    "team_abbreviation": "SAC",
+    "fgm": 7,
+    "fga": 16
+  },
+  {
+    "player_name": "Keon Johnson",
+    "team_abbreviation": "POR",
+    "fgm": 67,
+    "fga": 178
+  },
+  {
+    "player_name": "Kessler Edwards",
+    "team_abbreviation": "SAC",
+    "fgm": 36,
+    "fga": 93
+  },
+  {
+    "player_name": "Kevin Durant",
+    "team_abbreviation": "PHX",
+    "fgm": 483,
+    "fga": 862
+  },
+  {
+    "player_name": "Kevin Huerter",
+    "team_abbreviation": "SAC",
+    "fgm": 420,
+    "fga": 866
+  },
+  {
+    "player_name": "Kevin Knox II",
+    "team_abbreviation": "POR",
+    "fgm": 152,
+    "fga": 332
+  },
+  {
+    "player_name": "Kevin Love",
+    "team_abbreviation": "MIA",
+    "fgm": 165,
+    "fga": 424
+  },
+  {
+    "player_name": "Kevin Porter Jr.",
+    "team_abbreviation": "HOU",
+    "fgm": 391,
+    "fga": 884
+  },
+  {
+    "player_name": "Kevon Harris",
+    "team_abbreviation": "ORL",
+    "fgm": 47,
+    "fga": 107
+  },
+  {
+    "player_name": "Kevon Looney",
+    "team_abbreviation": "GSW",
+    "fgm": 242,
+    "fga": 384
+  },
+  {
+    "player_name": "Khem Birch",
+    "team_abbreviation": "SAS",
+    "fgm": 19,
+    "fga": 32
+  },
+  {
+    "player_name": "Khris Middleton",
+    "team_abbreviation": "MIL",
+    "fgm": 177,
+    "fga": 406
+  },
+  {
+    "player_name": "Killian Hayes",
+    "team_abbreviation": "DET",
+    "fgm": 307,
+    "fga": 815
+  },
+  {
+    "player_name": "Kira Lewis Jr.",
+    "team_abbreviation": "NOP",
+    "fgm": 40,
+    "fga": 88
+  },
+  {
+    "player_name": "Klay Thompson",
+    "team_abbreviation": "GSW",
+    "fgm": 546,
+    "fga": 1252
+  },
+  {
+    "player_name": "Kobi Simmons",
+    "team_abbreviation": "CHA",
+    "fgm": 1,
+    "fga": 6
+  },
+  {
+    "player_name": "Kris Dunn",
+    "team_abbreviation": "UTA",
+    "fgm": 116,
+    "fga": 216
+  },
+  {
+    "player_name": "Kristaps Porzingis",
+    "team_abbreviation": "WAS",
+    "fgm": 507,
+    "fga": 1018
+  },
+  {
+    "player_name": "Kyle Anderson",
+    "team_abbreviation": "MIN",
+    "fgm": 252,
+    "fga": 495
+  },
+  {
+    "player_name": "Kyle Kuzma",
+    "team_abbreviation": "WAS",
+    "fgm": 512,
+    "fga": 1142
+  },
+  {
+    "player_name": "Kyle Lowry",
+    "team_abbreviation": "MIA",
+    "fgm": 196,
+    "fga": 485
+  },
+  {
+    "player_name": "Kyrie Irving",
+    "team_abbreviation": "DAL",
+    "fgm": 594,
+    "fga": 1203
+  },
+  {
+    "player_name": "LaMelo Ball",
+    "team_abbreviation": "CHA",
+    "fgm": 296,
+    "fga": 721
+  },
+  {
+    "player_name": "Lamar Stevens",
+    "team_abbreviation": "CLE",
+    "fgm": 129,
+    "fga": 288
+  },
+  {
+    "player_name": "Landry Shamet",
+    "team_abbreviation": "PHX",
+    "fgm": 113,
+    "fga": 300
+  },
+  {
+    "player_name": "Larry Nance Jr.",
+    "team_abbreviation": "NOP",
+    "fgm": 186,
+    "fga": 305
+  },
+  {
+    "player_name": "Lauri Markkanen",
+    "team_abbreviation": "UTA",
+    "fgm": 571,
+    "fga": 1144
+  },
+  {
+    "player_name": "LeBron James",
+    "team_abbreviation": "LAL",
+    "fgm": 609,
+    "fga": 1219
+  },
+  {
+    "player_name": "Leandro Bolmaro",
+    "team_abbreviation": "UTA",
+    "fgm": 3,
+    "fga": 20
+  },
+  {
+    "player_name": "Lester Quinones",
+    "team_abbreviation": "GSW",
+    "fgm": 2,
+    "fga": 5
+  },
+  {
+    "player_name": "Lindell Wigginton",
+    "team_abbreviation": "MIL",
+    "fgm": 18,
+    "fga": 37
+  },
+  {
+    "player_name": "Lindy Waters III",
+    "team_abbreviation": "OKC",
+    "fgm": 70,
+    "fga": 178
+  },
+  {
+    "player_name": "Lonnie Walker IV",
+    "team_abbreviation": "LAL",
+    "fgm": 236,
+    "fga": 527
+  },
+  {
+    "player_name": "Louis King",
+    "team_abbreviation": "PHI",
+    "fgm": 8,
+    "fga": 13
+  },
+  {
+    "player_name": "Luguentz Dort",
+    "team_abbreviation": "OKC",
+    "fgm": 339,
+    "fga": 873
+  },
+  {
+    "player_name": "Luka Doncic",
+    "team_abbreviation": "DAL",
+    "fgm": 719,
+    "fga": 1449
+  },
+  {
+    "player_name": "Luka Garza",
+    "team_abbreviation": "MIN",
+    "fgm": 63,
+    "fga": 116
+  },
+  {
+    "player_name": "Luka Samanic",
+    "team_abbreviation": "UTA",
+    "fgm": 26,
+    "fga": 57
+  },
+  {
+    "player_name": "Luke Kennard",
+    "team_abbreviation": "MEM",
+    "fgm": 188,
+    "fga": 382
+  },
+  {
+    "player_name": "Luke Kornet",
+    "team_abbreviation": "BOS",
+    "fgm": 113,
+    "fga": 170
+  },
+  {
+    "player_name": "Mac McClung",
+    "team_abbreviation": "PHI",
+    "fgm": 9,
+    "fga": 20
+  },
+  {
+    "player_name": "Malachi Flynn",
+    "team_abbreviation": "TOR",
+    "fgm": 87,
+    "fga": 242
+  },
+  {
+    "player_name": "Malaki Branham",
+    "team_abbreviation": "SAS",
+    "fgm": 269,
+    "fga": 611
+  },
+  {
+    "player_name": "Malcolm Brogdon",
+    "team_abbreviation": "BOS",
+    "fgm": 354,
+    "fga": 732
+  },
+  {
+    "player_name": "Malcolm Hill",
+    "team_abbreviation": "CHI",
+    "fgm": 2,
+    "fga": 4
+  },
+  {
+    "player_name": "Malik Beasley",
+    "team_abbreviation": "LAL",
+    "fgm": 370,
+    "fga": 937
+  },
+  {
+    "player_name": "Malik Monk",
+    "team_abbreviation": "SAC",
+    "fgm": 357,
+    "fga": 796
+  },
+  {
+    "player_name": "Mamadi Diakite",
+    "team_abbreviation": "CLE",
+    "fgm": 24,
+    "fga": 50
+  },
+  {
+    "player_name": "MarJon Beauchamp",
+    "team_abbreviation": "MIL",
+    "fgm": 96,
+    "fga": 243
+  },
+  {
+    "player_name": "Marcus Morris Sr.",
+    "team_abbreviation": "LAC",
+    "fgm": 274,
+    "fga": 643
+  },
+  {
+    "player_name": "Marcus Smart",
+    "team_abbreviation": "BOS",
+    "fgm": 250,
+    "fga": 602
+  },
+  {
+    "player_name": "Mark Williams",
+    "team_abbreviation": "CHA",
+    "fgm": 160,
+    "fga": 251
+  },
+  {
+    "player_name": "Markelle Fultz",
+    "team_abbreviation": "ORL",
+    "fgm": 349,
+    "fga": 679
+  },
+  {
+    "player_name": "Markieff Morris",
+    "team_abbreviation": "DAL",
+    "fgm": 47,
+    "fga": 115
+  },
+  {
+    "player_name": "Marko Simonovic",
+    "team_abbreviation": "CHI",
+    "fgm": 2,
+    "fga": 7
+  },
+  {
+    "player_name": "Marvin Bagley III",
+    "team_abbreviation": "DET",
+    "fgm": 202,
+    "fga": 382
+  },
+  {
+    "player_name": "Mason Plumlee",
+    "team_abbreviation": "LAC",
+    "fgm": 329,
+    "fga": 484
+  },
+  {
+    "player_name": "Matisse Thybulle",
+    "team_abbreviation": "POR",
+    "fgm": 110,
+    "fga": 253
+  },
+  {
+    "player_name": "Matt Ryan",
+    "team_abbreviation": "MIN",
+    "fgm": 40,
+    "fga": 108
+  },
+  {
+    "player_name": "Matthew Dellavedova",
+    "team_abbreviation": "SAC",
+    "fgm": 17,
+    "fga": 50
+  },
+  {
+    "player_name": "Max Christie",
+    "team_abbreviation": "LAL",
+    "fgm": 44,
+    "fga": 106
+  },
+  {
+    "player_name": "Max Strus",
+    "team_abbreviation": "MIA",
+    "fgm": 324,
+    "fga": 790
+  },
+  {
+    "player_name": "Maxi Kleber",
+    "team_abbreviation": "DAL",
+    "fgm": 77,
+    "fga": 169
+  },
+  {
+    "player_name": "McKinley Wright IV",
+    "team_abbreviation": "DAL",
+    "fgm": 46,
+    "fga": 98
+  },
+  {
+    "player_name": "Meyers Leonard",
+    "team_abbreviation": "MIL",
+    "fgm": 14,
+    "fga": 29
+  },
+  {
+    "player_name": "Mfiondu Kabengele",
+    "team_abbreviation": "BOS",
+    "fgm": 2,
+    "fga": 7
+  },
+  {
+    "player_name": "Micah Potter",
+    "team_abbreviation": "UTA",
+    "fgm": 10,
+    "fga": 15
+  },
+  {
+    "player_name": "Michael Carter-Williams",
+    "team_abbreviation": "ORL",
+    "fgm": 6,
+    "fga": 14
+  },
+  {
+    "player_name": "Michael Porter Jr.",
+    "team_abbreviation": "DEN",
+    "fgm": 398,
+    "fga": 817
+  },
+  {
+    "player_name": "Mikal Bridges",
+    "team_abbreviation": "BKN",
+    "fgm": 593,
+    "fga": 1267
+  },
+  {
+    "player_name": "Mike Conley",
+    "team_abbreviation": "MIN",
+    "fgm": 261,
+    "fga": 610
+  },
+  {
+    "player_name": "Mike Muscala",
+    "team_abbreviation": "BOS",
+    "fgm": 131,
+    "fga": 292
+  },
+  {
+    "player_name": "Miles McBride",
+    "team_abbreviation": "NYK",
+    "fgm": 77,
+    "fga": 215
+  },
+  {
+    "player_name": "Mitchell Robinson",
+    "team_abbreviation": "NYK",
+    "fgm": 188,
+    "fga": 280
+  },
+  {
+    "player_name": "Mo Bamba",
+    "team_abbreviation": "LAL",
+    "fgm": 117,
+    "fga": 241
+  },
+  {
+    "player_name": "Monte Morris",
+    "team_abbreviation": "WAS",
+    "fgm": 247,
+    "fga": 515
+  },
+  {
+    "player_name": "Montrezl Harrell",
+    "team_abbreviation": "PHI",
+    "fgm": 125,
+    "fga": 209
+  },
+  {
+    "player_name": "Moritz Wagner",
+    "team_abbreviation": "ORL",
+    "fgm": 198,
+    "fga": 396
+  },
+  {
+    "player_name": "Moses Brown",
+    "team_abbreviation": "BKN",
+    "fgm": 61,
+    "fga": 96
+  },
+  {
+    "player_name": "Moses Moody",
+    "team_abbreviation": "GSW",
+    "fgm": 108,
+    "fga": 227
+  },
+  {
+    "player_name": "Moussa Diabate",
+    "team_abbreviation": "LAC",
+    "fgm": 24,
+    "fga": 47
+  },
+  {
+    "player_name": "Myles Turner",
+    "team_abbreviation": "IND",
+    "fgm": 402,
+    "fga": 733
+  },
+  {
+    "player_name": "Naji Marshall",
+    "team_abbreviation": "NOP",
+    "fgm": 247,
+    "fga": 571
+  },
+  {
+    "player_name": "Nassir Little",
+    "team_abbreviation": "POR",
+    "fgm": 134,
+    "fga": 303
+  },
+  {
+    "player_name": "Nate Williams",
+    "team_abbreviation": "POR",
+    "fgm": 24,
+    "fga": 39
+  },
+  {
+    "player_name": "Nathan Knight",
+    "team_abbreviation": "MIN",
+    "fgm": 46,
+    "fga": 81
+  },
+  {
+    "player_name": "Naz Reid",
+    "team_abbreviation": "MIN",
+    "fgm": 310,
+    "fga": 577
+  },
+  {
+    "player_name": "Neemias Queta",
+    "team_abbreviation": "SAC",
+    "fgm": 6,
+    "fga": 9
+  },
+  {
+    "player_name": "Nerlens Noel",
+    "team_abbreviation": "BKN",
+    "fgm": 13,
+    "fga": 36
+  },
+  {
+    "player_name": "Nic Claxton",
+    "team_abbreviation": "BKN",
+    "fgm": 414,
+    "fga": 587
+  },
+  {
+    "player_name": "Nick Richards",
+    "team_abbreviation": "CHA",
+    "fgm": 197,
+    "fga": 313
+  },
+  {
+    "player_name": "Nickeil Alexander-Walker",
+    "team_abbreviation": "MIN",
+    "fgm": 131,
+    "fga": 295
+  },
+  {
+    "player_name": "Nicolas Batum",
+    "team_abbreviation": "LAC",
+    "fgm": 160,
+    "fga": 381
+  },
+  {
+    "player_name": "Nikola Jokic",
+    "team_abbreviation": "DEN",
+    "fgm": 646,
+    "fga": 1022
+  },
+  {
+    "player_name": "Nikola Jovic",
+    "team_abbreviation": "MIA",
+    "fgm": 28,
+    "fga": 69
+  },
+  {
+    "player_name": "Nikola Vucevic",
+    "team_abbreviation": "CHI",
+    "fgm": 597,
+    "fga": 1148
+  },
+  {
+    "player_name": "Noah Vonleh",
+    "team_abbreviation": "BOS",
+    "fgm": 11,
+    "fga": 24
+  },
+  {
+    "player_name": "Norman Powell",
+    "team_abbreviation": "LAC",
+    "fgm": 340,
+    "fga": 710
+  },
+  {
+    "player_name": "O.G. Anunoby",
+    "team_abbreviation": "TOR",
+    "fgm": 421,
+    "fga": 885
+  },
+  {
+    "player_name": "Obi Toppin",
+    "team_abbreviation": "NYK",
+    "fgm": 187,
+    "fga": 419
+  },
+  {
+    "player_name": "Ochai Agbaji",
+    "team_abbreviation": "UTA",
+    "fgm": 165,
+    "fga": 386
+  },
+  {
+    "player_name": "Olivier Sarr",
+    "team_abbreviation": "OKC",
+    "fgm": 15,
+    "fga": 30
+  },
+  {
+    "player_name": "Omer Yurtseven",
+    "team_abbreviation": "MIA",
+    "fgm": 16,
+    "fga": 27
+  },
+  {
+    "player_name": "Onyeka Okongwu",
+    "team_abbreviation": "ATL",
+    "fgm": 317,
+    "fga": 497
+  },
+  {
+    "player_name": "Orlando Robinson",
+    "team_abbreviation": "MIA",
+    "fgm": 47,
+    "fga": 89
+  },
+  {
+    "player_name": "Oshae Brissett",
+    "team_abbreviation": "IND",
+    "fgm": 123,
+    "fga": 319
+  },
+  {
+    "player_name": "Otto Porter Jr.",
+    "team_abbreviation": "TOR",
+    "fgm": 15,
+    "fga": 30
+  },
+  {
+    "player_name": "Ousmane Dieng",
+    "team_abbreviation": "OKC",
+    "fgm": 76,
+    "fga": 181
+  },
+  {
+    "player_name": "P.J. Tucker",
+    "team_abbreviation": "PHI",
+    "fgm": 96,
+    "fga": 225
+  },
+  {
+    "player_name": "P.J. Washington",
+    "team_abbreviation": "CHA",
+    "fgm": 434,
+    "fga": 978
+  },
+  {
+    "player_name": "PJ Dozier",
+    "team_abbreviation": "SAC",
+    "fgm": 10,
+    "fga": 33
+  },
+  {
+    "player_name": "Paolo Banchero",
+    "team_abbreviation": "ORL",
+    "fgm": 479,
+    "fga": 1122
+  },
+  {
+    "player_name": "Pascal Siakam",
+    "team_abbreviation": "TOR",
+    "fgm": 630,
+    "fga": 1313
+  },
+  {
+    "player_name": "Pat Connaughton",
+    "team_abbreviation": "MIL",
+    "fgm": 165,
+    "fga": 421
+  },
+  {
+    "player_name": "Patrick Baldwin",
+    "team_abbreviation": "GSW",
+    "fgm": 43,
+    "fga": 109
+  },
+  {
+    "player_name": "Patrick Beverley",
+    "team_abbreviation": "CHI",
+    "fgm": 144,
+    "fga": 360
+  },
+  {
+    "player_name": "Patrick Williams",
+    "team_abbreviation": "CHI",
+    "fgm": 314,
+    "fga": 677
+  },
+  {
+    "player_name": "Patty Mills",
+    "team_abbreviation": "BKN",
+    "fgm": 86,
+    "fga": 209
+  },
+  {
+    "player_name": "Paul George",
+    "team_abbreviation": "LAC",
+    "fgm": 459,
+    "fga": 1004
+  },
+  {
+    "player_name": "Paul Reed",
+    "team_abbreviation": "PHI",
+    "fgm": 124,
+    "fga": 209
+  },
+  {
+    "player_name": "Payton Pritchard",
+    "team_abbreviation": "BOS",
+    "fgm": 101,
+    "fga": 245
+  },
+  {
+    "player_name": "Peyton Watson",
+    "team_abbreviation": "DEN",
+    "fgm": 29,
+    "fga": 59
+  },
+  {
+    "player_name": "Precious Achiuwa",
+    "team_abbreviation": "TOR",
+    "fgm": 196,
+    "fga": 404
+  },
+  {
+    "player_name": "Quentin Grimes",
+    "team_abbreviation": "NYK",
+    "fgm": 282,
+    "fga": 602
+  },
+  {
+    "player_name": "Quenton Jackson",
+    "team_abbreviation": "WAS",
+    "fgm": 19,
+    "fga": 42
+  },
+  {
+    "player_name": "R.J. Hampton",
+    "team_abbreviation": "DET",
+    "fgm": 102,
+    "fga": 237
+  },
+  {
+    "player_name": "RJ Barrett",
+    "team_abbreviation": "NYK",
+    "fgm": 510,
+    "fga": 1176
+  },
+  {
+    "player_name": "RaiQuan Gray",
+    "team_abbreviation": "BKN",
+    "fgm": 6,
+    "fga": 12
+  },
+  {
+    "player_name": "Raul Neto",
+    "team_abbreviation": "CLE",
+    "fgm": 57,
+    "fga": 110
+  },
+  {
+    "player_name": "Reggie Bullock Jr.",
+    "team_abbreviation": "DAL",
+    "fgm": 192,
+    "fga": 470
+  },
+  {
+    "player_name": "Reggie Jackson",
+    "team_abbreviation": "DEN",
+    "fgm": 263,
+    "fga": 640
+  },
+  {
+    "player_name": "Richaun Holmes",
+    "team_abbreviation": "SAC",
+    "fgm": 55,
+    "fga": 89
+  },
+  {
+    "player_name": "Ricky Rubio",
+    "team_abbreviation": "CLE",
+    "fgm": 61,
+    "fga": 178
+  },
+  {
+    "player_name": "Robert Covington",
+    "team_abbreviation": "LAC",
+    "fgm": 102,
+    "fga": 229
+  },
+  {
+    "player_name": "Robert Williams III",
+    "team_abbreviation": "BOS",
+    "fgm": 127,
+    "fga": 170
+  },
+  {
+    "player_name": "Robin Lopez",
+    "team_abbreviation": "CLE",
+    "fgm": 48,
+    "fga": 75
+  },
+  {
+    "player_name": "Rodney McGruder",
+    "team_abbreviation": "DET",
+    "fgm": 62,
+    "fga": 152
+  },
+  {
+    "player_name": "Romeo Langford",
+    "team_abbreviation": "SAS",
+    "fgm": 121,
+    "fga": 259
+  },
+  {
+    "player_name": "Ron Harper Jr.",
+    "team_abbreviation": "TOR",
+    "fgm": 8,
+    "fga": 16
+  },
+  {
+    "player_name": "Royce O'Neale",
+    "team_abbreviation": "BKN",
+    "fgm": 229,
+    "fga": 593
+  },
+  {
+    "player_name": "Rudy Gay",
+    "team_abbreviation": "UTA",
+    "fgm": 109,
+    "fga": 288
+  },
+  {
+    "player_name": "Rudy Gobert",
+    "team_abbreviation": "MIN",
+    "fgm": 360,
+    "fga": 546
+  },
+  {
+    "player_name": "Rui Hachimura",
+    "team_abbreviation": "LAL",
+    "fgm": 284,
+    "fga": 584
+  },
+  {
+    "player_name": "Russell Westbrook",
+    "team_abbreviation": "LAC",
+    "fgm": 432,
+    "fga": 991
+  },
+  {
+    "player_name": "Ryan Arcidiacono",
+    "team_abbreviation": "POR",
+    "fgm": 9,
+    "fga": 37
+  },
+  {
+    "player_name": "Ryan Rollins",
+    "team_abbreviation": "GSW",
+    "fgm": 7,
+    "fga": 20
+  },
+  {
+    "player_name": "Saben Lee",
+    "team_abbreviation": "PHX",
+    "fgm": 49,
+    "fga": 121
+  },
+  {
+    "player_name": "Saddiq Bey",
+    "team_abbreviation": "ATL",
+    "fgm": 353,
+    "fga": 836
+  },
+  {
+    "player_name": "Sam Hauser",
+    "team_abbreviation": "BOS",
+    "fgm": 180,
+    "fga": 396
+  },
+  {
+    "player_name": "Sam Merrill",
+    "team_abbreviation": "CLE",
+    "fgm": 9,
+    "fga": 22
+  },
+  {
+    "player_name": "Sandro Mamukelashvili",
+    "team_abbreviation": "SAS",
+    "fgm": 97,
+    "fga": 230
+  },
+  {
+    "player_name": "Santi Aldama",
+    "team_abbreviation": "MEM",
+    "fgm": 247,
+    "fga": 525
+  },
+  {
+    "player_name": "Scottie Barnes",
+    "team_abbreviation": "TOR",
+    "fgm": 463,
+    "fga": 1016
+  },
+  {
+    "player_name": "Scotty Pippen Jr.",
+    "team_abbreviation": "LAL",
+    "fgm": 4,
+    "fga": 12
+  },
+  {
+    "player_name": "Serge Ibaka",
+    "team_abbreviation": "MIL",
+    "fgm": 26,
+    "fga": 54
+  },
+  {
+    "player_name": "Seth Curry",
+    "team_abbreviation": "BKN",
+    "fgm": 208,
+    "fga": 449
+  },
+  {
+    "player_name": "Shaedon Sharpe",
+    "team_abbreviation": "POR",
+    "fgm": 306,
+    "fga": 648
+  },
+  {
+    "player_name": "Shai Gilgeous-Alexander",
+    "team_abbreviation": "OKC",
+    "fgm": 704,
+    "fga": 1381
+  },
+  {
+    "player_name": "Shake Milton",
+    "team_abbreviation": "PHI",
+    "fgm": 241,
+    "fga": 503
+  },
+  {
+    "player_name": "Shaquille Harrison",
+    "team_abbreviation": "LAL",
+    "fgm": 15,
+    "fga": 36
+  },
+  {
+    "player_name": "Simone Fontecchio",
+    "team_abbreviation": "UTA",
+    "fgm": 115,
+    "fga": 312
+  },
+  {
+    "player_name": "Skylar Mays",
+    "team_abbreviation": "POR",
+    "fgm": 34,
+    "fga": 68
+  },
+  {
+    "player_name": "Spencer Dinwiddie",
+    "team_abbreviation": "BKN",
+    "fgm": 460,
+    "fga": 1050
+  },
+  {
+    "player_name": "Stanley Johnson",
+    "team_abbreviation": "SAS",
+    "fgm": 65,
+    "fga": 122
+  },
+  {
+    "player_name": "Stanley Umude",
+    "team_abbreviation": "DET",
+    "fgm": 0,
+    "fga": 1
+  },
+  {
+    "player_name": "Stephen Curry",
+    "team_abbreviation": "GSW",
+    "fgm": 559,
+    "fga": 1133
+  },
+  {
+    "player_name": "Sterling Brown",
+    "team_abbreviation": "LAL",
+    "fgm": 0,
+    "fga": 4
+  },
+  {
+    "player_name": "Steven Adams",
+    "team_abbreviation": "MEM",
+    "fgm": 157,
+    "fga": 263
+  },
+  {
+    "player_name": "Svi Mykhailiuk",
+    "team_abbreviation": "CHA",
+    "fgm": 77,
+    "fga": 173
+  },
+  {
+    "player_name": "T.J. McConnell",
+    "team_abbreviation": "IND",
+    "fgm": 283,
+    "fga": 521
+  },
+  {
+    "player_name": "T.J. Warren",
+    "team_abbreviation": "PHX",
+    "fgm": 132,
+    "fga": 270
+  },
+  {
+    "player_name": "Taj Gibson",
+    "team_abbreviation": "WAS",
+    "fgm": 65,
+    "fga": 125
+  },
+  {
+    "player_name": "Talen Horton-Tucker",
+    "team_abbreviation": "UTA",
+    "fgm": 257,
+    "fga": 613
+  },
+  {
+    "player_name": "Tari Eason",
+    "team_abbreviation": "HOU",
+    "fgm": 296,
+    "fga": 660
+  },
+  {
+    "player_name": "Taurean Prince",
+    "team_abbreviation": "MIN",
+    "fgm": 177,
+    "fga": 379
+  },
+  {
+    "player_name": "Terance Mann",
+    "team_abbreviation": "LAC",
+    "fgm": 272,
+    "fga": 524
+  },
+  {
+    "player_name": "Terence Davis",
+    "team_abbreviation": "SAC",
+    "fgm": 154,
+    "fga": 364
+  },
+  {
+    "player_name": "Terrence Ross",
+    "team_abbreviation": "PHX",
+    "fgm": 200,
+    "fga": 465
+  },
+  {
+    "player_name": "Terry Rozier",
+    "team_abbreviation": "CHA",
+    "fgm": 493,
+    "fga": 1188
+  },
+  {
+    "player_name": "Terry Taylor",
+    "team_abbreviation": "CHI",
+    "fgm": 39,
+    "fga": 75
+  },
+  {
+    "player_name": "Thaddeus Young",
+    "team_abbreviation": "TOR",
+    "fgm": 108,
+    "fga": 198
+  },
+  {
+    "player_name": "Thanasis Antetokounmpo",
+    "team_abbreviation": "MIL",
+    "fgm": 20,
+    "fga": 46
+  },
+  {
+    "player_name": "Theo Maledon",
+    "team_abbreviation": "CHA",
+    "fgm": 102,
+    "fga": 254
+  },
+  {
+    "player_name": "Theo Pinson",
+    "team_abbreviation": "DAL",
+    "fgm": 31,
+    "fga": 87
+  },
+  {
+    "player_name": "Thomas Bryant",
+    "team_abbreviation": "DEN",
+    "fgm": 230,
+    "fga": 369
+  },
+  {
+    "player_name": "Tim Hardaway Jr.",
+    "team_abbreviation": "DAL",
+    "fgm": 340,
+    "fga": 847
+  },
+  {
+    "player_name": "Tobias Harris",
+    "team_abbreviation": "PHI",
+    "fgm": 423,
+    "fga": 845
+  },
+  {
+    "player_name": "Tony Bradley",
+    "team_abbreviation": "CHI",
+    "fgm": 6,
+    "fga": 12
+  },
+  {
+    "player_name": "Torrey Craig",
+    "team_abbreviation": "PHX",
+    "fgm": 228,
+    "fga": 500
+  },
+  {
+    "player_name": "Trae Young",
+    "team_abbreviation": "ATL",
+    "fgm": 597,
+    "fga": 1390
+  },
+  {
+    "player_name": "Tre Jones",
+    "team_abbreviation": "SAS",
+    "fgm": 341,
+    "fga": 743
+  },
+  {
+    "player_name": "Tre Mann",
+    "team_abbreviation": "OKC",
+    "fgm": 197,
+    "fga": 501
+  },
+  {
+    "player_name": "Trendon Watford",
+    "team_abbreviation": "POR",
+    "fgm": 181,
+    "fga": 323
+  },
+  {
+    "player_name": "Trent Forrest",
+    "team_abbreviation": "ATL",
+    "fgm": 25,
+    "fga": 60
+  },
+  {
+    "player_name": "Trevelin Queen",
+    "team_abbreviation": "IND",
+    "fgm": 7,
+    "fga": 29
+  },
+  {
+    "player_name": "Trevor Hudgins",
+    "team_abbreviation": "HOU",
+    "fgm": 2,
+    "fga": 9
+  },
+  {
+    "player_name": "Trevor Keels",
+    "team_abbreviation": "NYK",
+    "fgm": 1,
+    "fga": 4
+  },
+  {
+    "player_name": "Trey Lyles",
+    "team_abbreviation": "SAC",
+    "fgm": 187,
+    "fga": 408
+  },
+  {
+    "player_name": "Trey Murphy III",
+    "team_abbreviation": "NOP",
+    "fgm": 387,
+    "fga": 800
+  },
+  {
+    "player_name": "Troy Brown Jr.",
+    "team_abbreviation": "LAL",
+    "fgm": 200,
+    "fga": 465
+  },
+  {
+    "player_name": "Ty Jerome",
+    "team_abbreviation": "GSW",
+    "fgm": 118,
+    "fga": 242
+  },
+  {
+    "player_name": "TyTy Washington Jr.",
+    "team_abbreviation": "HOU",
+    "fgm": 58,
+    "fga": 160
+  },
+  {
+    "player_name": "Tyler Dorsey",
+    "team_abbreviation": "DAL",
+    "fgm": 4,
+    "fga": 5
+  },
+  {
+    "player_name": "Tyler Herro",
+    "team_abbreviation": "MIA",
+    "fgm": 487,
+    "fga": 1109
+  },
+  {
+    "player_name": "Tyrese Haliburton",
+    "team_abbreviation": "IND",
+    "fgm": 412,
+    "fga": 841
+  },
+  {
+    "player_name": "Tyrese Martin",
+    "team_abbreviation": "ATL",
+    "fgm": 9,
+    "fga": 23
+  },
+  {
+    "player_name": "Tyrese Maxey",
+    "team_abbreviation": "PHI",
+    "fgm": 439,
+    "fga": 913
+  },
+  {
+    "player_name": "Tyus Jones",
+    "team_abbreviation": "MEM",
+    "fgm": 311,
+    "fga": 710
+  },
+  {
+    "player_name": "Udoka Azubuike",
+    "team_abbreviation": "UTA",
+    "fgm": 59,
+    "fga": 72
+  },
+  {
+    "player_name": "Udonis Haslem",
+    "team_abbreviation": "MIA",
+    "fgm": 10,
+    "fga": 29
+  },
+  {
+    "player_name": "Usman Garuba",
+    "team_abbreviation": "HOU",
+    "fgm": 86,
+    "fga": 177
+  },
+  {
+    "player_name": "Vernon Carey Jr.",
+    "team_abbreviation": "UTA",
+    "fgm": 2,
+    "fga": 8
+  },
+  {
+    "player_name": "Victor Oladipo",
+    "team_abbreviation": "MIA",
+    "fgm": 160,
+    "fga": 403
+  },
+  {
+    "player_name": "Vince Williams Jr.",
+    "team_abbreviation": "MEM",
+    "fgm": 12,
+    "fga": 40
+  },
+  {
+    "player_name": "Vit Krejci",
+    "team_abbreviation": "ATL",
+    "fgm": 15,
+    "fga": 37
+  },
+  {
+    "player_name": "Vlatko Cancar",
+    "team_abbreviation": "DEN",
+    "fgm": 108,
+    "fga": 227
+  },
+  {
+    "player_name": "Walker Kessler",
+    "team_abbreviation": "UTA",
+    "fgm": 298,
+    "fga": 414
+  },
+  {
+    "player_name": "Wendell Carter Jr.",
+    "team_abbreviation": "ORL",
+    "fgm": 322,
+    "fga": 613
+  },
+  {
+    "player_name": "Wendell Moore Jr.",
+    "team_abbreviation": "MIN",
+    "fgm": 18,
+    "fga": 43
+  },
+  {
+    "player_name": "Wenyen Gabriel",
+    "team_abbreviation": "LAL",
+    "fgm": 155,
+    "fga": 260
+  },
+  {
+    "player_name": "Wesley Matthews",
+    "team_abbreviation": "MIL",
+    "fgm": 58,
+    "fga": 160
+  },
+  {
+    "player_name": "Will Barton",
+    "team_abbreviation": "TOR",
+    "fgm": 138,
+    "fga": 364
+  },
+  {
+    "player_name": "Willy Hernangomez",
+    "team_abbreviation": "NOP",
+    "fgm": 89,
+    "fga": 169
+  },
+  {
+    "player_name": "Xavier Cooks",
+    "team_abbreviation": "WAS",
+    "fgm": 17,
+    "fga": 28
+  },
+  {
+    "player_name": "Xavier Moon",
+    "team_abbreviation": "LAC",
+    "fgm": 3,
+    "fga": 9
+  },
+  {
+    "player_name": "Xavier Sneed",
+    "team_abbreviation": "CHA",
+    "fgm": 5,
+    "fga": 10
+  },
+  {
+    "player_name": "Xavier Tillman",
+    "team_abbreviation": "MEM",
+    "fgm": 188,
+    "fga": 306
+  },
+  {
+    "player_name": "Yuta Watanabe",
+    "team_abbreviation": "BKN",
+    "fgm": 114,
+    "fga": 232
+  },
+  {
+    "player_name": "Zach Collins",
+    "team_abbreviation": "SAS",
+    "fgm": 284,
+    "fga": 548
+  },
+  {
+    "player_name": "Zach LaVine",
+    "team_abbreviation": "CHI",
+    "fgm": 673,
+    "fga": 1388
+  },
+  {
+    "player_name": "Zeke Nnaji",
+    "team_abbreviation": "DEN",
+    "fgm": 110,
+    "fga": 196
+  },
+  {
+    "player_name": "Ziaire Williams",
+    "team_abbreviation": "MEM",
+    "fgm": 84,
+    "fga": 196
+  },
+  {
+    "player_name": "Zion Williamson",
+    "team_abbreviation": "NOP",
+    "fgm": 285,
+    "fga": 469
+  }
+]
