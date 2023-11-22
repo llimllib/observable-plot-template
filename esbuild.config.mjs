@@ -17,10 +17,12 @@ esbuild
     entryPoints: ["src/index.ts"],
     bundle: true,
     external: [],
-    format: "cjs",
-    target: "es2018",
+    format: "esm",
+    target: "esnext",
     logLevel: "info",
-    sourcemap: prod ? false : "inline",
+    // inline | external | linked
+    // or expression like: prod ? false : "inline"
+    sourcemap: "linked",
     treeShaking: true,
     outfile: "dist/index.js",
     minify: true,
